@@ -6,8 +6,8 @@ Create a project directory
 Clone this repository
 
     git clone git@github.com:rkiel/node-intro.git
+    cd node-intro
 
 Start up vagrant
 
-    cd node-intro
     vagrant up
