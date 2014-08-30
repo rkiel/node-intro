@@ -1,26 +1,31 @@
 # -*- mode: ruby -*-
 # vi: set ft=ruby :
 
-active = [:mongo]
+active = [:frodo, :bilbo]
 
 servers = {
-  rails:  {type: :ruby,    provision: %w{rvm postgresql_client} },
-  pg:     {type: :sql,      provision: %w{postgresql_server} },
-  mongo:  {type: :nosql,    provision: %w{mongodb_server} },
-  aws:    {type: :aws,      provision: %w{rvm aws} },
-  heroku: {type: :heroku,   provision: %w{git rvm heroku ssh} },
-  node:   {type: :javascript,     provision: %w{node} },
-  sails:  {type: :javascript,     provision: %w{node sails} },
-  mean:   {type: :javascript,     provision: %w{git node mean} }
+  rails:  {type: :ruby,        provision: %w{rvm postgresql_client} },
+  pg:     {type: :sql,         provision: %w{postgresql_server} },
+  mongo:  {type: :nosql,       provision: %w{mongodb_server} },
+  aws:    {type: :aws,         provision: %w{rvm aws} },
+  heroku: {type: :heroku,      provision: %w{git rvm heroku ssh} },
+  node:   {type: :javascript,  provision: %w{node} },
+  sails:  {type: :javascript,  provision: %w{node sails} },
+  mean:   {type: :javascript,  provision: %w{git node mean} },
+  frodo:  {type: :javascript1, provision: %w{node} },
+  bilbo:  {type: :javascript2, provision: %w{node} }
 }.select { |key,value| active.include? key }
 
 types = {
-  ruby:   { box: :precise64, ip: "192.168.33.10" },
-  sql:    { box: :precise64, ip: "192.168.33.20" },
-  nosql:  { box: :trusty64,  ip: "192.168.33.30" },
-  aws:    { box: :precise64, ip: "192.168.33.40" },
-  heroku: { box: :precise64, ip: "192.168.33.50" },
-  javascript: { box: :trusty64,  ip: "192.168.33.60" }
+  ruby:        { box: :precise64, ip: "192.168.33.10" },
+  sql:         { box: :precise64, ip: "192.168.33.20" },
+  nosql:       { box: :trusty64,  ip: "192.168.33.30" },
+  aws:         { box: :precise64, ip: "192.168.33.40" },
+  heroku:      { box: :precise64, ip: "192.168.33.50" },
+  javascript:  { box: :trusty64,  ip: "192.168.33.60" },
+  javascript1: { box: :trusty64,  ip: "192.168.33.61" },
+  javascript2: { box: :trusty64,  ip: "192.168.33.62" },
+  javascript3: { box: :trusty64,  ip: "192.168.33.63" }
 }
 
 boxes = {
