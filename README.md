@@ -1,13 +1,3 @@
-Create a project directory
 
-    mkdir -p ~/Github/rkiel
-    cd ~/Github/rkiel
+Slides for [Node.js - An Introduction](http://slides.com/rkiel/node-js-intro#/)
 
-Clone this repository
-
-    git clone git@github.com:rkiel/node-intro.git
-    cd node-intro
-
-Start up vagrant
-
-    vagrant up
