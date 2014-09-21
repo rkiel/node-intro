@@ -10,4 +10,4 @@ It is not a requirement that you use Vagrant but I've found it to be a great dev
 * [Hello World](https://github.com/rkiel/node-intro/wiki/Lab--:--Hello-World)
 * [Modules](https://github.com/rkiel/node-intro/wiki/Lab-:-Modules)
 * [Events](https://github.com/rkiel/node-intro/wiki/Lab-:-Events)
-* [npm](https://github.com/rkiel/node-intro/wiki/Lab-:-npm)
+* [Node Packaged Modules](https://github.com/rkiel/node-intro/wiki/Lab-:-npm)
