@@ -1,6 +1,7 @@
 ### Node.js -- An Introduction
 
 I recently did a tech talk presentation for my company on Node.js.
+
 The slides are available online for "[Node.js - An Introduction](http://slides.com/rkiel/node-js-intro#/)".
 The agenda for the presentation has two parts.:
 
