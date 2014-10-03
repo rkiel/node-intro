@@ -14,7 +14,8 @@ Details - covers 3 keys areas with lots of code examples
 * Events
 * Packaged Modules
 
-The exercises were developed using node.js installed on Ubuntu via Vagrant.
+At the end of four of the sections, I include a hands-on, step-by-step lab exercise.
+The exercises were developed using Node.js installed on Ubuntu via Vagrant.
 It is not a requirement that you use Vagrant but I've found it to be a great development tool.
 
 * [Installing Vagrant](https://github.com/rkiel/node-intro/wiki/Lab-:-Installing-Vagrant)
