@@ -10,7 +10,7 @@ Overview
 * What is Node.js?
 * How do I run Node.js?
 
-Details - covers 3 keys areas with lots of code examples
+Details - covers 3 key areas with lots of code examples
 * Modules
 * Events
 * Packaged Modules
