@@ -3,10 +3,12 @@
 I recently did a tech talk presentation on Node.js.
 The slides are available online for "[Node.js - An Introduction](http://slides.com/rkiel/node-js-intro#/)".
 The agenda for the presentation is in two parts.:
+
 High-level Overview
 * Why Node.js?
 *  What is Node.js?
 * How do I run Node.js?
+
 Details
 * Modules
 * Events
