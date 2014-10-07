@@ -27,7 +27,7 @@ It is not a requirement that you use Vagrant but I've found it to be a great dev
 * [Lab 5. Events](https://github.com/rkiel/node-intro/wiki/Lab-:-Events)
 * [Lab 6. Node Packaged Modules](https://github.com/rkiel/node-intro/wiki/Lab-:-npm)
 
-Many thanks to these great resources: 
+Many thanks to these great resources that were used throughout the presentation: 
 
 1. [Why Node.js is becoming the go-to technology in the Enterprise](http://www.nearform.com/nodecrunch/node-js-becoming-go-technology-enterprise#.VAHg5mRdUSg)
 2. [Node.js itself is blocking, only its I/O is non-blocking](http://greenash.net.au/thoughts/2012/11/nodejs-itself-is-blocking-only-its-io-is-non-blocking/)
