@@ -7,15 +7,15 @@ The presentation agenda is split into two parts:
 
 Overview
 
-1. Why Node.js?
-2. What is Node.js?
-3. How do I run Node.js?
+* Part 1. Why Node.js?
+* Part 2. What is Node.js?
+* Part 3. How do I run Node.js?
 
 Details (covers 3 key areas with lots of code examples)
 
-4. Modules
-5. Events
-6. Packaged Modules
+* Part 4. Modules
+* Part 5. Events
+* Part 6. Packaged Modules
 
 At the end of four of the sections, I include a hands-on, step-by-step lab exercise.
 The exercises were developed using Node.js installed on Ubuntu via Vagrant.
