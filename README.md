@@ -6,11 +6,13 @@ The slides for "[Node.js - An Introduction](http://slides.com/rkiel/node-js-intr
 The presentation agenda is split into two parts:
 
 Overview
+
 1. Why Node.js?
 2. What is Node.js?
 3. How do I run Node.js?
 
 Details (covers 3 key areas with lots of code examples)
+
 4. Modules
 5. Events
 6. Packaged Modules
