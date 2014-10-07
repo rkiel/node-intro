@@ -6,24 +6,24 @@ The slides for "[Node.js - An Introduction](http://slides.com/rkiel/node-js-intr
 The presentation agenda is split into two parts:
 
 Overview
-* Why Node.js?
-* What is Node.js?
-* How do I run Node.js?
+1. Why Node.js?
+2. What is Node.js?
+3. How do I run Node.js?
 
-Details - covers 3 key areas with lots of code examples
-* Modules
-* Events
-* Packaged Modules
+Details (covers 3 key areas with lots of code examples)
+4. Modules
+5. Events
+6. Packaged Modules
 
 At the end of four of the sections, I include a hands-on, step-by-step lab exercise.
 The exercises were developed using Node.js installed on Ubuntu via Vagrant.
 It is not a requirement that you use Vagrant but I've found it to be a great development tool.
 
-* [Installing Vagrant](https://github.com/rkiel/node-intro/wiki/Lab-:-Installing-Vagrant)
-* [Hello World](https://github.com/rkiel/node-intro/wiki/Lab--:--Hello-World)
-* [Modules](https://github.com/rkiel/node-intro/wiki/Lab-:-Modules)
-* [Events](https://github.com/rkiel/node-intro/wiki/Lab-:-Events)
-* [Node Packaged Modules](https://github.com/rkiel/node-intro/wiki/Lab-:-npm)
+* [Part 0 Lab -- Installing Vagrant](https://github.com/rkiel/node-intro/wiki/Lab-:-Installing-Vagrant)
+* [Part 3 Lab -- Hello World](https://github.com/rkiel/node-intro/wiki/Lab--:--Hello-World)
+* [Part 4 Lab -- Modules](https://github.com/rkiel/node-intro/wiki/Lab-:-Modules)
+* [Part 5 Lab -- Events](https://github.com/rkiel/node-intro/wiki/Lab-:-Events)
+* [Part 6 Lab -- Node Packaged Modules](https://github.com/rkiel/node-intro/wiki/Lab-:-npm)
 
 Many thanks to these great resources: 
 
