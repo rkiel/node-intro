@@ -3,13 +3,13 @@
 I recently did a tech talk presentation for my company entitled "[Node.js - An Introduction](http://slides.com/rkiel/node-js-intro#/)".
 
 The slides for "[Node.js - An Introduction](http://slides.com/rkiel/node-js-intro#/)" are available on Slides.com.
-The presentation agenda is split into two parts:
+The presentation [agenda](http://slides.com/rkiel/node-js-intro#/2) is split into two parts:
 
 Overview
 
-* Part 1. Why Node.js?
-* Part 2. What is Node.js?
-* Part 3. How do I run Node.js?
+* Part 1. [Why Node.js?](http://slides.com/rkiel/node-js-intro#/4)
+* Part 2. [What is Node.js?](http://slides.com/rkiel/node-js-intro#/12)
+* Part 3. [How do I run Node.js?](http://slides.com/rkiel/node-js-intro#/17)
 
 Details (covers 3 key areas with lots of code examples)
 
