@@ -13,9 +13,9 @@ Overview
 
 Details (covers 3 key areas with lots of code examples)
 
-* Part 4. Modules
-* Part 5. Events
-* Part 6. Packaged Modules
+* Part 4. [Modules](http://slides.com/rkiel/node-js-intro#/22)
+* Part 5. [Events](http://slides.com/rkiel/node-js-intro#/56)
+* Part 6. [Packaged Modules](http://slides.com/rkiel/node-js-intro#/80)
 
 At the end of four of the sections, I include a hands-on, step-by-step lab exercise.
 The exercises were developed using Node.js installed on Ubuntu via Vagrant.
