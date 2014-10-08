@@ -20,11 +20,11 @@ Details (covers 3 key areas with lots of code examples)
 At the end of the last four parts, I include a hands-on, step-by-step lab exercise.
 The exercises use Node.js installed on Ubuntu via Vagrant but that is for convenience and not a requirement to completing the exercises.
 
-* [Lab 0. Installing Vagrant](https://github.com/rkiel/node-intro/wiki/Lab-:-Installing-Vagrant)
-* [Lab 3. Hello World](https://github.com/rkiel/node-intro/wiki/Lab--:--Hello-World)
-* [Lab 4. Modules](https://github.com/rkiel/node-intro/wiki/Lab-:-Modules)
-* [Lab 5. Events](https://github.com/rkiel/node-intro/wiki/Lab-:-Events)
-* [Lab 6. Packaged Modules](https://github.com/rkiel/node-intro/wiki/Lab-:-npm)
+* Lab 0. [Installing Vagrant](https://github.com/rkiel/node-intro/wiki/Lab-:-Installing-Vagrant)
+* Lab 3. [Hello World](https://github.com/rkiel/node-intro/wiki/Lab--:--Hello-World)
+* Lab 4. [Modules](https://github.com/rkiel/node-intro/wiki/Lab-:-Modules)
+* Lab 5. [Events](https://github.com/rkiel/node-intro/wiki/Lab-:-Events)
+* Lab 6. [Packaged Modules](https://github.com/rkiel/node-intro/wiki/Lab-:-npm)
 
 Many thanks to these great resources that were used throughout the presentation: 
 
