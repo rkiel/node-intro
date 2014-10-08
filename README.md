@@ -17,7 +17,7 @@ Details (covers 3 key areas with lots of code examples)
 * Part 5. [Events](http://slides.com/rkiel/node-js-intro#/56)
 * Part 6. [Packaged Modules](http://slides.com/rkiel/node-js-intro#/80)
 
-At the end of the last four sections, I include a hands-on, step-by-step lab exercise.
+At the end of the last four parts, I include a hands-on, step-by-step lab exercise.
 The exercises use Node.js installed on Ubuntu via Vagrant but that is for convenience and not a requirement to completing the exercises.
 
 * [Lab 0. Installing Vagrant](https://github.com/rkiel/node-intro/wiki/Lab-:-Installing-Vagrant)
